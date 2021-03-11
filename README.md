@@ -27,8 +27,4 @@ As well as you can set and execute the individual actions
 --------------------------------------------------------------------------
 **Contact me:**
 Discord: DerCooleVonDem#9991
-[A Great Minecraft Server!][1]
-[My YouTube][2]
-[2]: https://www.youtube.com/channel/UCX61eeiWpUiVfmVucEBIcoQ "Youtube Ref"
-[1]: https://grieferking.de "Join our Minecraft Bedrockserver!" 
 > *This plugin is made in php for pocketmine api 3*
