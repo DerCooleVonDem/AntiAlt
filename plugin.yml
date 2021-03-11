@@ -1,0 +1,16 @@
+name: "Anti-Alt"
+version: 1.0.0
+main: derc\antialt\main
+author: "DerCooleVonDem"
+website: "https://grieferking.de"
+description: "A Simple to use Alt Account Protection"
+api: 3.0.0
+commands:
+  antialt:
+    description: "AntiAlt - Main Command"
+    aliases: ["aa"]
+permissions:
+  antialt.mod:
+    description: "AntiAlt Moderator Permission"
+  antialt.admin:
+    description: "AntiAlt Admin Permission"

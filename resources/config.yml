@@ -1,0 +1,12 @@
+#Welcome Back!
+#AntiAlt by DerCooleVonDem - If you have an error contact me on discord! (DerCooleVonDem#9991)
+#
+#
+#
+#
+#
+#
+#How many accounts a player should allowed to have?
+max-accouts-per-player: 1
+#What should the plugin do on illegal activity? (kick, ban, ignore)
+action: "kick"
