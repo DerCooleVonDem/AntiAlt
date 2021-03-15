@@ -10,7 +10,7 @@
 
 
 **What is AntiAlt?**
-AnitAlt is an Pocketmine Alt Account Protection Plugin which is currrenty under development.
+AnitAlt is an Pocketmine Alt Account Protection Plugin which is currenty under development.
 ------------------------------------------------------------------------
 **Planning:**
 - Poggit Release
